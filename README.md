@@ -16,7 +16,7 @@ This repository showcases laboratory and introductory engineering studies involv
 
 ## Full technical report
 
-**[View / download the updated Chemical Engineering Project Portfolio (PDF)](https://github.com/emmgalindo/chemical-engineering-portfolio/blob/main/Chemical_Engineering_Portfolio.pdf)**
+**[Download the updated Chemical Engineering Project Portfolio (PDF)](https://raw.githubusercontent.com/emmgalindo/chemical-engineering-portfolio/main/Chemical_Engineering_Portfolio.pdf)**
 
 The revised report includes the original UC San Diego laboratory figures and measured results, technical interpretations and limitations, a separately identified idealized CSTR computational study, and a reference list. The current report replaces the outdated edition; see also the [portfolio website](https://emmgalindo.github.io/).
 
