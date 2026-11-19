@@ -14,7 +14,11 @@ This repository showcases laboratory and introductory engineering studies involv
 4. **Lactate dehydrogenase kinetics** — NADH-based UV–Vis rate measurements and kinetic interpretation.
 5. **Idealized first-order CSTR model** — Transparent material balance, analytical verification, and sensitivity analysis based on assumed parameters; not a physical reactor experiment.
 
-The older portfolio PDF has been removed. The revised report is not yet hosted in this repository. For the website's project summaries, see [emmgalindo.github.io](https://emmgalindo.github.io/).
+## Full technical report
+
+**[View / download the updated Chemical Engineering Project Portfolio (PDF)](https://github.com/emmgalindo/chemical-engineering-portfolio/blob/main/Chemical_Engineering_Portfolio.pdf)**
+
+The revised report includes the original UC San Diego laboratory figures and measured results, technical interpretations and limitations, a separately identified idealized CSTR computational study, and a reference list. The current report replaces the outdated edition; see also the [portfolio website](https://emmgalindo.github.io/).
 
 ## Technical focus
 
