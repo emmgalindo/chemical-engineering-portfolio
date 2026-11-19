@@ -1,25 +1,23 @@
 # Chemical Engineering Project Portfolio
 
-This repository contains my chemical engineering project portfolio.
+**Emmanuel Galindo-Montellano**  
+M.S. in Engineering, Chemical Engineering concentration — University of California, Riverside (in progress)  
+B.S. Pharmacological Chemistry — University of California, San Diego (June 2026)
 
-## Projects Included
+This repository showcases laboratory and introductory engineering studies involving water-quality analysis, chemical separations, bioprocessing, kinetics, and computational modeling. The projects are presented with careful attention to experimental evidence, assumptions, and limitations.
 
-- Enzyme kinetics modeling of lactate dehydrogenase  
-- Recombinant protein purification using Ni-affinity chromatography  
-- Fractional distillation and gas chromatography analysis  
-- Quantitative environmental chemical analysis of marine water  
-- MATLAB simulation of hydrogen peroxide decomposition in a CSTR  
+## Projects
 
-These projects demonstrate experience in:
+1. **Marine water-quality analysis** — Phosphate, calcium, dissolved oxygen, and alkalinity in Scripps Pier seawater; spectroscopy, titration, calibration, and Gran plot analysis.
+2. **Recombinant protein purification** — LuxG downstream processing with nickel-affinity chromatography and SDS-PAGE.
+3. **Fractional distillation and gas chromatography** — Qualitative separation of a hexane–heptane mixture.
+4. **Lactate dehydrogenase kinetics** — NADH-based UV–Vis rate measurements and kinetic interpretation.
+5. **Idealized first-order CSTR model** — Transparent material balance, analytical verification, and sensitivity analysis based on assumed parameters; not a physical reactor experiment.
 
-- Reaction engineering  
-- Separation processes  
-- Bioprocess purification  
-- Analytical chemistry  
-- Computational modeling  
+The older portfolio PDF has been removed. The revised report is not yet hosted in this repository. For the website's project summaries, see [emmgalindo.github.io](https://emmgalindo.github.io/).
 
----
+## Technical focus
 
-## Download the Full Portfolio
+Environmental and water-quality analysis · reaction kinetics · chemical separations · bioprocessing · MATLAB-based numerical methods · technical documentation
 
-[Download Portfolio PDF](https://raw.githubusercontent.com/emmgalindo/chemical-engineering-portfolio/main/Chemical_Engineering_Portfolio.pdf)
+**Contact:** [Email](mailto:emmgalindo234@gmail.com) · [LinkedIn](https://www.linkedin.com/in/emmanuel-galindo-montellano/)
